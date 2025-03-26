@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Web-Education/static/css/main.7d2283f2.css",
+    "main.js": "/Web-Education/static/js/main.011c8716.js",
+    "static/media/logo.svg": "/Web-Education/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Web-Education/index.html",
+    "main.7d2283f2.css.map": "/Web-Education/static/css/main.7d2283f2.css.map",
+    "main.011c8716.js.map": "/Web-Education/static/js/main.011c8716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2283f2.css",
+    "static/js/main.011c8716.js"
+  ]
+}
